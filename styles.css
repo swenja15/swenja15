@@ -1,0 +1,17 @@
+#title {
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+h2{
+    color: green;
+}
+
+body{
+    background-color: deepskyblue;
+    color: black;
+    padding: 30px;
+}

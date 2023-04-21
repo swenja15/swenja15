@@ -1,17 +1,14 @@
 #title {
-    color: red;
+    color: purple;
 }
 
-.blue{
-    color: blue;
-}
 
 h2{
-    color: green;
+    color: purple;
 }
 
 body{
-    background-color: deepskyblue;
-    color: black;
+    background-color: rgb(8, 144, 189);
+    color: white;
     padding: 30px;
 }
